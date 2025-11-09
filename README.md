@@ -4,7 +4,7 @@
 
 > *"What if our universe remembers the shape of the one that came before it?"*
 
-[Open the Explorer](https://snowbellsan.github.io/topological-memory) | [View on GitHub](https://github.com/snowbellsan/Topological-Memory-Explorer/blob/main/topological-memory.html)
+[Open the Explorer](https://snowbellsan.github.io/Topological-Memory-Explorer) | [View on GitHub](https://github.com/snowbellsan/Topological-Memory-Explorer/blob/main/topological-memory.html)
 
 ---
 
