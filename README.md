@@ -49,7 +49,7 @@ This tool bridges **established science** (finite topology cosmology) with a **s
 ## Interactive Demo
 
 Try it now:  
-[https://snowbellsan.github.io/topological-memory](https://snowbellsan.github.io/topological-memory)
+[https://snowbellsan.github.io/topological-memory](https://snowbellsan.github.io/Topological-Memory-Explorer)
 
 1. **Section I**: See the real CMB anomaly (ℓ=2,3 power ~20% of prediction)
 2. **Section III**: Drag the **Topology Size** slider
