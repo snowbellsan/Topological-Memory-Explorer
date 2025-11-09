@@ -4,7 +4,7 @@
 
 > *"What if our universe remembers the shape of the one that came before it?"*
 
-[Open the Explorer](https://your-username.github.io/topological-memory) | [View on GitHub](https://github.com/your-username/topological-memory)
+[Open the Explorer](https://snowbellsan.github.io/topological-memory) | [View on GitHub](https://github.com/snowbellsan/topological-memory)
 
 ---
 
@@ -49,7 +49,7 @@ This tool bridges **established science** (finite topology cosmology) with a **s
 ## Interactive Demo
 
 Try it now:  
-[https://your-username.github.io/topological-memory](https://your-username.github.io/topological-memory)
+[https://your-username.github.io/topological-memory](https://snowbellsan.github.io/topological-memory)
 
 1. **Section I**: See the real CMB anomaly (ℓ=2,3 power ~20% of prediction)
 2. **Section III**: Drag the **Topology Size** slider
