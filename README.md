@@ -71,6 +71,13 @@ Try it now:
 
 ---
 
+## Author
+
+**Jack**    ( https://x.com/Jackpot_jack )  
+*Simulator Archaeologist | AI Conductor | One-sentence Philosopher*
+
+---
+
 ## Installation & Local Use
 
 ```bash
